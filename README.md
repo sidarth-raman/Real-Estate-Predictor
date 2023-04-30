@@ -1,6 +1,5 @@
 # Real-Estate-Predictor
 
-
 ### Problem: 
 
 Main Objective: The problem I attempted to solve was to create an accurate real estate pricing prediction model using linear regression. To solve this problem I used data from the State Department of Revenue (DOR) publication of data to the Somerville Board of Assessor database. The data provided was real-estate data on Somerville, Massachusetts, a suburban city with a population of just over 80,000 people. The dataset contained 107,900 unique data points each with 71 columns of information pertaining to the house. I will use this data to create a model, and then train the model on my data, and eventually test my model. My hope is that with the given data, I can accurately predict the price of the houses in Somerville, within a given threshold percentage. I also will use this model to draw more conclusions about the real estate market. 
